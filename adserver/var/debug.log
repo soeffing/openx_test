@@ -1,0 +1,567 @@
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_account_preference_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table account_preference_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_account_user_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table account_user_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_account_user_permission_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table account_user_permission_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_accounts
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table accounts
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_acls
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table acls
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_acls_channel
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table acls_channel
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_ad_category_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table ad_category_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_ad_zone_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table ad_zone_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_affiliates
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table affiliates
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_affiliates_extra
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table affiliates_extra
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_agency
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table agency
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_application_variable
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table application_variable
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_audit
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table audit
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_banners
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table banners
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_campaigns
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table campaigns
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_campaigns_trackers
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table campaigns_trackers
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_category
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table category
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_channel
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table channel
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_clients
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table clients
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_intermediate_ad
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_intermediate_ad
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_intermediate_ad_connection
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_intermediate_ad_connection
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_intermediate_ad_variable_value
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_intermediate_ad_variable_value
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_raw_ad_click
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_raw_ad_click
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_raw_ad_impression
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_raw_ad_impression
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_raw_ad_request
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_raw_ad_request
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_raw_tracker_impression
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_raw_tracker_impression
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_raw_tracker_variable_value
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_raw_tracker_variable_value
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_summary_ad_hourly
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_summary_ad_hourly
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_summary_ad_zone_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_summary_ad_zone_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_summary_channel_daily
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_summary_channel_daily
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_data_summary_zone_impression_history
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table data_summary_zone_impression_history
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_images
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table images
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_log_maintenance_forecasting
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table log_maintenance_forecasting
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_log_maintenance_priority
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table log_maintenance_priority
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_log_maintenance_statistics
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table log_maintenance_statistics
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_password_recovery
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table password_recovery
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_placement_zone_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table placement_zone_assoc
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_preferences
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table preferences
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_session
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table session
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_targetstats
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table targetstats
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_tracker_append
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table tracker_append
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_trackers
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table trackers
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_userlog
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table userlog
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_users
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table users
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_variable_publisher
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table variable_publisher
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_variables
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table variables
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop table ox_zones
+Aug 30 18:05:56 -0400 OX-503fe3c3e102f [    error]  Unable to drop the table zones
+Aug 30 18:06:39 -0400 OX-503fe3ee9b3a8 [     info]  OpenX Sync: No update
+Aug 30 18:06:43 -0400 OX-503fe3ee9b3a8 [     info]  OpenX Sync: No update
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  starting _checkPackageContents openXBannerTypes.xml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  expecting definition openXBannerTypes.xml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  detected group definition file /plugins/etc/oxHtml/oxHtml.xml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  detected group definition file /plugins/etc/oxText/oxText.xml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  detected plugin definition file /plugins/etc/openXBannerTypes.xml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkOpenXCompatibility for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkSystemEnvironment for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkDatabaseEnvironment for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _runScript for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkDependenciesForInstallOrEnable for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkFiles for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkNavigationCheckers for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkMenus for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _registerSchema for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _registerPreferences for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _registerSettings for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing disableComponentGroup for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _registerPluginVersion for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _runScript for oxHtml
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkOpenXCompatibility for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkSystemEnvironment for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkDatabaseEnvironment for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _runScript for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkDependenciesForInstallOrEnable for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkFiles for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkNavigationCheckers for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _checkMenus for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _registerSchema for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _registerPreferences for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _registerSettings for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing disableComponentGroup for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _registerPluginVersion for oxText
+Aug 30 18:06:44 -0400 OX-plugins-503fe3f48982e [     info]  Executing _runScript for oxText
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  starting _checkPackageContents openXDeliveryLimitations.xml
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  expecting definition openXDeliveryLimitations.xml
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  detected group definition file /plugins/etc/Client/Client.xml
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  detected group definition file /plugins/etc/Geo/Geo.xml
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  detected group definition file /plugins/etc/Site/Site.xml
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  detected group definition file /plugins/etc/Time/Time.xml
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  detected plugin definition file /plugins/etc/openXDeliveryLimitations.xml
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkOpenXCompatibility for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkSystemEnvironment for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkDatabaseEnvironment for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _runScript for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkDependenciesForInstallOrEnable for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkFiles for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkNavigationCheckers for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkMenus for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerSchema for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerPreferences for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerSettings for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing disableComponentGroup for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerPluginVersion for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _runScript for Client
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkOpenXCompatibility for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkSystemEnvironment for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkDatabaseEnvironment for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _runScript for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkDependenciesForInstallOrEnable for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkFiles for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkNavigationCheckers for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkMenus for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerSchema for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerPreferences for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerSettings for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing disableComponentGroup for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerPluginVersion for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _runScript for Geo
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkOpenXCompatibility for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkSystemEnvironment for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkDatabaseEnvironment for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _runScript for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkDependenciesForInstallOrEnable for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkFiles for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkNavigationCheckers for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkMenus for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerSchema for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerPreferences for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerSettings for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing disableComponentGroup for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerPluginVersion for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _runScript for Site
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkOpenXCompatibility for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkSystemEnvironment for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkDatabaseEnvironment for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _runScript for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkDependenciesForInstallOrEnable for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkFiles for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkNavigationCheckers for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _checkMenus for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerSchema for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerPreferences for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerSettings for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing disableComponentGroup for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _registerPluginVersion for Time
+Aug 30 18:06:46 -0400 OX-plugins-503fe3f5e83f6 [     info]  Executing _runScript for Time
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  starting _checkPackageContents openX3rdPartyServers.xml
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  expecting definition openX3rdPartyServers.xml
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  detected plugin definition file /plugins/etc/openX3rdPartyServers.xml
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  detected group definition file /plugins/etc/ox3rdPartyServers/ox3rdPartyServers.xml
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _checkOpenXCompatibility for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _checkSystemEnvironment for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _checkDatabaseEnvironment for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _runScript for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _checkDependenciesForInstallOrEnable for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _checkFiles for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _checkNavigationCheckers for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _checkMenus for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _registerSchema for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _registerPreferences for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _registerSettings for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing disableComponentGroup for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _registerPluginVersion for ox3rdPartyServers
+Aug 30 18:06:49 -0400 OX-plugins-503fe3f907bc1 [     info]  Executing _runScript for ox3rdPartyServers
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  starting _checkPackageContents openXReports.xml
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  expecting definition openXReports.xml
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  detected plugin definition file /plugins/etc/openXReports.xml
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  detected group definition file /plugins/etc/oxReportsAdmin/oxReportsAdmin.xml
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  detected group definition file /plugins/etc/oxReportsStandard/oxReportsStandard.xml
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkOpenXCompatibility for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkSystemEnvironment for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkDatabaseEnvironment for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _runScript for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkDependenciesForInstallOrEnable for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkFiles for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkNavigationCheckers for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkMenus for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _registerSchema for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _registerPreferences for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _registerSettings for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing disableComponentGroup for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _registerPluginVersion for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _runScript for oxReportsStandard
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkOpenXCompatibility for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkSystemEnvironment for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkDatabaseEnvironment for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _runScript for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkDependenciesForInstallOrEnable for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkFiles for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkNavigationCheckers for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _checkMenus for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _registerSchema for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _registerPreferences for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _registerSettings for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing disableComponentGroup for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _registerPluginVersion for oxReportsAdmin
+Aug 30 18:06:50 -0400 OX-plugins-503fe3fa60670 [     info]  Executing _runScript for oxReportsAdmin
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  starting _checkPackageContents openXDeliveryCacheStore.xml
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  expecting definition openXDeliveryCacheStore.xml
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  detected plugin definition file /plugins/etc/openXDeliveryCacheStore.xml
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  detected group definition file /plugins/etc/oxMemcached/oxMemcached.xml
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  detected group definition file /plugins/etc/oxCacheFile/oxCacheFile.xml
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkOpenXCompatibility for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkSystemEnvironment for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkDatabaseEnvironment for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _runScript for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkDependenciesForInstallOrEnable for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkFiles for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkNavigationCheckers for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkMenus for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _registerSchema for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _registerPreferences for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _registerSettings for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing disableComponentGroup for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _registerPluginVersion for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _runScript for oxCacheFile
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkOpenXCompatibility for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkSystemEnvironment for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkDatabaseEnvironment for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _runScript for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkDependenciesForInstallOrEnable for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkFiles for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkNavigationCheckers for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _checkMenus for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _registerSchema for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _registerPreferences for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _registerSettings for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing disableComponentGroup for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _registerPluginVersion for oxMemcached
+Aug 30 18:06:52 -0400 OX-plugins-503fe3fc1b47b [     info]  Executing _runScript for oxMemcached
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  starting _checkPackageContents openXMaxMindGeoIP.xml
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  expecting definition openXMaxMindGeoIP.xml
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  detected group definition file /plugins/etc/oxMaxMindGeoIP/oxMaxMindGeoIP.xml
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  detected plugin definition file /plugins/etc/openXMaxMindGeoIP.xml
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _checkOpenXCompatibility for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _checkSystemEnvironment for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _checkDatabaseEnvironment for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _runScript for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _checkDependenciesForInstallOrEnable for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _checkFiles for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _checkNavigationCheckers for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _checkMenus for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _registerSchema for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _registerPreferences for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _registerSettings for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing disableComponentGroup for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _registerPluginVersion for oxMaxMindGeoIP
+Aug 30 18:06:54 -0400 OX-plugins-503fe3fe07ba3 [     info]  Executing _runScript for oxMaxMindGeoIP
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  starting _checkPackageContents openXInvocationTags.xml
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  expecting definition openXInvocationTags.xml
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  detected plugin definition file /plugins/etc/openXInvocationTags.xml
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  detected group definition file /plugins/etc/oxInvocationTags/oxInvocationTags.xml
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _checkOpenXCompatibility for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _checkSystemEnvironment for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _checkDatabaseEnvironment for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _runScript for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _checkDependenciesForInstallOrEnable for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _checkFiles for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _checkNavigationCheckers for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _checkMenus for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _registerSchema for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _registerPreferences for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _registerSettings for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing disableComponentGroup for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _registerPluginVersion for oxInvocationTags
+Aug 30 18:06:55 -0400 OX-plugins-503fe3ff7674f [     info]  Executing _runScript for oxInvocationTags
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  starting _checkPackageContents openXDeliveryLog.xml
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  expecting definition openXDeliveryLog.xml
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  detected group definition file /plugins/etc/oxLogImpression/oxLogImpression.xml
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  detected group definition file /plugins/etc/oxLogConversion/oxLogConversion.xml
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  detected group definition file /plugins/etc/oxLogClick/oxLogClick.xml
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  detected group definition file /plugins/etc/oxLogRequest/oxLogRequest.xml
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  detected plugin definition file /plugins/etc/openXDeliveryLog.xml
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  detected group definition file /plugins/etc/oxDeliveryDataPrepare/oxDeliveryDataPrepare.xml
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkOpenXCompatibility for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkSystemEnvironment for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkDatabaseEnvironment for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _runScript for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkDependenciesForInstallOrEnable for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkFiles for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkNavigationCheckers for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkMenus for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerSchema for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerPreferences for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerSettings for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing disableComponentGroup for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerPluginVersion for oxDeliveryDataPrepare
+Aug 30 18:06:58 -0400 OX-plugins-503fe4020d25c [     info]  Executing _runScript for oxDeliveryDataPrepare
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkOpenXCompatibility for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkSystemEnvironment for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkDatabaseEnvironment for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _runScript for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkFiles for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkNavigationCheckers for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkMenus for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerSchema for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerPreferences for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerSettings for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing disableComponentGroup for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerPluginVersion for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _runScript for oxLogClick
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkOpenXCompatibility for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkSystemEnvironment for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkDatabaseEnvironment for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _runScript for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkFiles for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkNavigationCheckers for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkMenus for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerSchema for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerPreferences for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerSettings for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing disableComponentGroup for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerPluginVersion for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _runScript for oxLogConversion
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkOpenXCompatibility for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkSystemEnvironment for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkDatabaseEnvironment for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _runScript for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkFiles for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkNavigationCheckers for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkMenus for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerSchema for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerPreferences for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerSettings for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing disableComponentGroup for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerPluginVersion for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _runScript for oxLogImpression
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkOpenXCompatibility for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkSystemEnvironment for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkDatabaseEnvironment for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _runScript for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkFiles for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkNavigationCheckers for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _checkMenus for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerSchema for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerPreferences for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerSettings for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing disableComponentGroup for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _registerPluginVersion for oxLogRequest
+Aug 30 18:06:59 -0400 OX-plugins-503fe4020d25c [     info]  Executing _runScript for oxLogRequest
+Aug 30 18:07:04 -0400 OX-plugins-503fe4086f08a [     info]  starting _checkPackageContents openXMarket.xml
+Aug 30 18:07:04 -0400 OX-plugins-503fe4086f08a [     info]  expecting definition openXMarket.xml
+Aug 30 18:07:04 -0400 OX-plugins-503fe4086f08a [     info]  detected plugin definition file /plugins/etc/openXMarket.xml
+Aug 30 18:07:04 -0400 OX-plugins-503fe4086f08a [     info]  detected group definition file /plugins/etc/oxMarket/oxMarket.xml
+Aug 30 18:07:04 -0400 OX-plugins-503fe4086f08a [     info]  detected group definition file /plugins/etc/oxMarketDelivery/oxMarketDelivery.xml
+Aug 30 18:07:04 -0400 OX-plugins-503fe4086f08a [     info]  detected group definition file /plugins/etc/oxMarketMaintenance/oxMarketMaintenance.xml
+Aug 30 18:07:05 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkOpenXCompatibility for oxMarket
+Aug 30 18:07:05 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkSystemEnvironment for oxMarket
+Aug 30 18:07:05 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkDatabaseEnvironment for oxMarket
+Aug 30 18:07:05 -0400 OX-plugins-503fe4086f08a [     info]  Executing _runScript for oxMarket
+Aug 30 18:07:05 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkDependenciesForInstallOrEnable for oxMarket
+Aug 30 18:07:05 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkFiles for oxMarket
+Aug 30 18:07:05 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkNavigationCheckers for oxMarket
+Aug 30 18:07:05 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkMenus for oxMarket
+Aug 30 18:07:05 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerSchema for oxMarket
+Aug 30 18:07:06 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerPreferences for oxMarket
+Aug 30 18:07:06 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerSettings for oxMarket
+Aug 30 18:07:06 -0400 OX-plugins-503fe4086f08a [     info]  Executing disableComponentGroup for oxMarket
+Aug 30 18:07:06 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerPluginVersion for oxMarket
+Aug 30 18:07:06 -0400 OX-plugins-503fe4086f08a [     info]  Executing _runScript for oxMarket
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkOpenXCompatibility for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkSystemEnvironment for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkDatabaseEnvironment for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _runScript for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkDependenciesForInstallOrEnable for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkFiles for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkNavigationCheckers for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkMenus for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerSchema for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerPreferences for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerSettings for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing disableComponentGroup for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerPluginVersion for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _runScript for oxMarketMaintenance
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkOpenXCompatibility for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkSystemEnvironment for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkDatabaseEnvironment for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _runScript for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkDependenciesForInstallOrEnable for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkFiles for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkNavigationCheckers for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _checkMenus for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerSchema for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerPreferences for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerSettings for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing disableComponentGroup for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _registerPluginVersion for oxMarketDelivery
+Aug 30 18:07:07 -0400 OX-plugins-503fe4086f08a [     info]  Executing _runScript for oxMarketDelivery
+Aug 30 18:07:14 -0400 OX-plugins-503fe41267ad7 [     info]  starting _checkPackageContents openXWorkflow.xml
+Aug 30 18:07:14 -0400 OX-plugins-503fe41267ad7 [     info]  expecting definition openXWorkflow.xml
+Aug 30 18:07:14 -0400 OX-plugins-503fe41267ad7 [     info]  detected plugin definition file /plugins/etc/openXWorkflow.xml
+Aug 30 18:07:14 -0400 OX-plugins-503fe41267ad7 [     info]  detected group definition file /plugins/etc/openXWorkflow/openXWorkflow.xml
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _checkOpenXCompatibility for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _checkSystemEnvironment for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _checkDatabaseEnvironment for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _runScript for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _checkDependenciesForInstallOrEnable for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _checkFiles for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _checkNavigationCheckers for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _checkMenus for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _registerSchema for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _registerPreferences for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _registerSettings for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing disableComponentGroup for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _registerPluginVersion for openXWorkflow
+Aug 30 18:07:16 -0400 OX-plugins-503fe41267ad7 [     info]  Executing _runScript for openXWorkflow
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  starting _checkPackageContents openXVideoAds.xml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  expecting definition openXVideoAds.xml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  detected group definition file /plugins/etc/vastOverlayBannerTypeHtml/vastOverlayBannerTypeHtml.xml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  detected group definition file /plugins/etc/vastServeVideoPlayer/vastServeVideoPlayer.xml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  detected group definition file /plugins/etc/vastInlineBannerTypeHtml/vastInlineBannerTypeHtml.xml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  detected group definition file /plugins/etc/videoReport/videoReport.xml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  detected group definition file /plugins/etc/oxLogVast/oxLogVast.xml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  detected plugin definition file /plugins/etc/openXVideoAds.xml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkOpenXCompatibility for vastInlineBannerTypeHtml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkSystemEnvironment for vastInlineBannerTypeHtml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkDatabaseEnvironment for vastInlineBannerTypeHtml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  Executing _runScript for vastInlineBannerTypeHtml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkDependenciesForInstallOrEnable for vastInlineBannerTypeHtml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkFiles for vastInlineBannerTypeHtml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkNavigationCheckers for vastInlineBannerTypeHtml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkMenus for vastInlineBannerTypeHtml
+Aug 30 18:07:23 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerSchema for vastInlineBannerTypeHtml
+Aug 30 18:07:24 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerPreferences for vastInlineBannerTypeHtml
+Aug 30 18:07:24 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerSettings for vastInlineBannerTypeHtml
+Aug 30 18:07:24 -0400 OX-plugins-503fe41b22421 [     info]  Executing disableComponentGroup for vastInlineBannerTypeHtml
+Aug 30 18:07:24 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerPluginVersion for vastInlineBannerTypeHtml
+Aug 30 18:07:24 -0400 OX-plugins-503fe41b22421 [     info]  Executing _runScript for vastInlineBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkOpenXCompatibility for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkSystemEnvironment for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkDatabaseEnvironment for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _runScript for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkDependenciesForInstallOrEnable for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkFiles for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkNavigationCheckers for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkMenus for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerSchema for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerPreferences for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerSettings for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing disableComponentGroup for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerPluginVersion for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _runScript for vastOverlayBannerTypeHtml
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkOpenXCompatibility for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkSystemEnvironment for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkDatabaseEnvironment for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _runScript for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkFiles for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkNavigationCheckers for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkMenus for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerSchema for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerPreferences for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerSettings for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing disableComponentGroup for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerPluginVersion for oxLogVast
+Aug 30 18:07:25 -0400 OX-plugins-503fe41b22421 [     info]  Executing _runScript for oxLogVast
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkOpenXCompatibility for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkSystemEnvironment for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkDatabaseEnvironment for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _runScript for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkDependenciesForInstallOrEnable for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkFiles for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkNavigationCheckers for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkMenus for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerSchema for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerPreferences for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerSettings for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing disableComponentGroup for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerPluginVersion for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _runScript for vastServeVideoPlayer
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkOpenXCompatibility for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkSystemEnvironment for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkDatabaseEnvironment for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _runScript for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkDependenciesForInstallOrEnable for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkFiles for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkNavigationCheckers for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _checkMenus for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerSchema for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerPreferences for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerSettings for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing disableComponentGroup for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _registerPluginVersion for videoReport
+Aug 30 18:07:26 -0400 OX-plugins-503fe41b22421 [     info]  Executing _runScript for videoReport
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  starting _checkPackageContents openXDeliveryLogCountry.xml
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  expecting definition openXDeliveryLogCountry.xml
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  detected plugin definition file /plugins/etc/openXDeliveryLogCountry.xml
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  detected group definition file /plugins/etc/oxDeliveryGeo/oxDeliveryGeo.xml
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  detected group definition file /plugins/etc/oxLogCountry/oxLogCountry.xml
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkOpenXCompatibility for oxDeliveryGeo
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkSystemEnvironment for oxDeliveryGeo
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkDatabaseEnvironment for oxDeliveryGeo
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  Executing _runScript for oxDeliveryGeo
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkDependenciesForInstallOrEnable for oxDeliveryGeo
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkFiles for oxDeliveryGeo
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkNavigationCheckers for oxDeliveryGeo
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkMenus for oxDeliveryGeo
+Aug 30 18:08:44 -0400 OX-plugins-503fe46c83bff [     info]  Executing _registerSchema for oxDeliveryGeo
+Aug 30 18:08:45 -0400 OX-plugins-503fe46c83bff [     info]  Executing _registerPreferences for oxDeliveryGeo
+Aug 30 18:08:45 -0400 OX-plugins-503fe46c83bff [     info]  Executing _registerSettings for oxDeliveryGeo
+Aug 30 18:08:45 -0400 OX-plugins-503fe46c83bff [     info]  Executing disableComponentGroup for oxDeliveryGeo
+Aug 30 18:08:45 -0400 OX-plugins-503fe46c83bff [     info]  Executing _registerPluginVersion for oxDeliveryGeo
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _runScript for oxDeliveryGeo
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkOpenXCompatibility for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkSystemEnvironment for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkDatabaseEnvironment for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _runScript for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkFiles for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkNavigationCheckers for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _checkMenus for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _registerSchema for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _registerPreferences for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _registerSettings for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing disableComponentGroup for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _registerPluginVersion for oxLogCountry
+Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _runScript for oxLogCountry
