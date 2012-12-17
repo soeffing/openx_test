@@ -25,6 +25,7 @@
 $Id: GeoIP.delivery.php 18872 2008-04-15 11:48:59Z chris.nutting@openx.org $
 */
 
+
 /**
  * Get the geo-information for this IP address using the GeoIP plugin
  *
@@ -632,5 +633,6 @@ function _unpackGeoCookie($string = '')
     }
     return (empty($aGeoInfo) ? false : $aGeoInfo);
 }
+
 
 ?>

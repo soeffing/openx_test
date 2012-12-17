@@ -27,6 +27,7 @@ $Id: Variable.delivery.php 33995 2009-03-18 23:04:15Z chris.nutting $
 
 require_once MAX_PATH . '/lib/max/Delivery/limitations.delivery.php';
 
+
 /**
  * Check if a value passed into the ad request (through $_REQUEST (so GET/POST/COOKIE)
  * via a name=value pair matches the limitation configured
@@ -40,6 +41,7 @@ require_once MAX_PATH . '/lib/max/Delivery/limitations.delivery.php';
  */
 function MAX_checkSite_Variable($limitation, $op, $aParams = array())
 {
+  
     if (empty($aParams)) {
         $aParams = $_REQUEST;
     }
@@ -52,8 +54,11 @@ function MAX_checkSite_Variable($limitation, $op, $aParams = array())
     } else if (MAX_limitationsIsOperatorNumeric($op)) {
         return MAX_limitationMatchNumeric($key, $value, $op, $aParams);
     } else {
-        return MAX_limitationsMatchString($key, $value, $op, $aParams);
+        return MAX_limitationsMatchArray($key, $value, $op, $aParams);
     }
 }
 
+
+
 ?>
+

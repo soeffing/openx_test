@@ -202,6 +202,7 @@ function MAX_limitationsMatchArrayClientGeo($paramName, $limitation, $op, &$aPar
  */
 function MAX_limitationsMatchArray($paramName, $limitation, $op, &$aParams = array(), $namespace='CLIENT')
 {
+    xdebug_start_trace();
     if (empty($aParams)) {
         $aParams =& $GLOBALS['_MAX'][$namespace];
     }
@@ -210,6 +211,7 @@ function MAX_limitationsMatchArray($paramName, $limitation, $op, &$aParams = arr
     }
 
     return MAX_limitationsMatchArrayValue($aParams[$paramName], $limitation, $op);
+    xdebug_stop_trace();
 }
 
 /**

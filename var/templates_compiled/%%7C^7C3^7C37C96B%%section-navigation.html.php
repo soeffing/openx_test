@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2012-08-30 23:08:54
+<?php /* Smarty version 2.6.18, created on 2012-12-17 17:33:56
          compiled from layout/section-navigation.html */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'escape', 'layout/section-navigation.html', 38, false),array('function', 't', 'layout/section-navigation.html', 38, false),)), $this); ?>

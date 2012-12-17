@@ -565,3 +565,164 @@ Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _registerS
 Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing disableComponentGroup for oxLogCountry
 Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _registerPluginVersion for oxLogCountry
 Aug 30 18:08:46 -0400 OX-plugins-503fe46c83bff [     info]  Executing _runScript for oxLogCountry
+Dec 17 17:27:32 +0000 OX-50cf560184cca [  warning]  Missing argument 2 for OA_Admin_Option::_showHiddenField(), called in /var/www/openx_test/lib/OA/Admin/Option.php on line 570 and defined
+Dec 17 17:33:51 +0000 OX-plugins-50cf577c881ab [     info]  Executing _runScript for oxMaxMindGeoIP
+Dec 17 17:33:52 +0000 OX-plugins-50cf577c881ab [     info]  Executing _unregisterPluginVersion for oxMaxMindGeoIP
+Dec 17 17:33:52 +0000 OX-plugins-50cf577c881ab [     info]  Executing _unregisterPreferences for oxMaxMindGeoIP
+Dec 17 17:33:52 +0000 OX-plugins-50cf577c881ab [     info]  Executing _unregisterSettings for oxMaxMindGeoIP
+Dec 17 17:33:52 +0000 OX-plugins-50cf577c881ab [     info]  Executing _unregisterSchema for oxMaxMindGeoIP
+Dec 17 17:33:52 +0000 OX-plugins-50cf577c881ab [     info]  Executing _runScript for oxMaxMindGeoIP
+Dec 17 17:33:52 +0000 OX-plugins-50cf577c881ab [     info]  Executing _removeFiles for oxMaxMindGeoIP
+Dec 17 17:37:46 +0000 OX-50cf5866d452f [  warning]  Missing argument 2 for OA_Admin_Option::_showHiddenField(), called in /var/www/openx_test/lib/OA/Admin/Option.php on line 570 and defined
+Dec 17 17:37:54 +0000 OX-50cf586f63d86 [  warning]  Missing argument 2 for OA_Admin_Option::_showHiddenField(), called in /var/www/openx_test/lib/OA/Admin/Option.php on line 570 and defined
+Dec 17 18:04:49 +0000 OX-50cf5ebb1737d [    error]  Cannot locate owning account IDs for entity in table 'clients', as the 'account_id' column was empty where column 'clientid' was  equal to '4'.
+Dec 17 18:04:50 +0000 OX-50cf5ebb1737d [    error]  Cannot locate owning account IDs for entity in table 'clients', as the 'account_id' column was empty where column 'clientid' was  equal to '4'.
+Dec 17 18:05:50 +0000 OX-50cf5efaf3b39 [     info]  Running Automatic Maintenance Task
+ 
+ 
+Dec 17 18:05:52 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Running Maintenance Engine
+Dec 17 18:05:52 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Running Maintenance Statistics Engine
+Dec 17 18:05:56 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+Dec 17 18:05:56 +0000 OX-maintenance-50cf5efaf3b39 [     info]  - Maintenance statistics will be run
+Dec 17 18:05:56 +0000 OX-maintenance-50cf5efaf3b39 [     info]  - The intermediate table statistics will be updated
+Dec 17 18:05:56 +0000 OX-maintenance-50cf5efaf3b39 [     info]  - The final table statistics will be updated
+Dec 17 18:05:56 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+Dec 17 18:05:56 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OX_Maintenance_Statistics_Task_MigrateBucketData
+Dec 17 18:05:57 +0000 OX-maintenance-50cf5efaf3b39 [     info]      - The ox_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+Dec 17 18:05:57 +0000 OX-maintenance-50cf5efaf3b39 [     info]      - Accordingly, pruning of the ox_data_bkt_a table will be performed based on data that has a logged date between 
+Dec 17 18:05:57 +0000 OX-maintenance-50cf5efaf3b39 [     info]        2012-12-17 17:00:00 UTC and 2012-12-17 17:59:59 UTC
+Dec 17 18:05:57 +0000 OX-maintenance-50cf5efaf3b39 [     info]      - The ox_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+Dec 17 18:05:57 +0000 OX-maintenance-50cf5efaf3b39 [     info]      - Accordingly, pruning of the ox_data_bkt_a_var table will be performed based on data that has a logged date between 
+Dec 17 18:05:57 +0000 OX-maintenance-50cf5efaf3b39 [     info]        2012-12-17 17:00:00 UTC and 2012-12-17 17:59:59 UTC
+Dec 17 18:05:59 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OX_Maintenance_Statistics_Task_MigrateBucketData
+Dec 17 18:05:59 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+Dec 17 18:06:00 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+Dec 17 18:06:00 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageConversions
+Dec 17 18:06:00 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageConversions
+Dec 17 18:06:00 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OX_Maintenance_Statistics_Task_SummariseFinal
+Dec 17 18:06:00 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OX_Maintenance_Statistics_Task_SummariseFinal
+Dec 17 18:06:00 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OX_Maintenance_Statistics_Task_LogCompletion
+Dec 17 18:06:01 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OX_Maintenance_Statistics_Task_LogCompletion
+Dec 17 18:06:01 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageCampaigns
+Dec 17 18:06:01 +0000 OX-maintenance-50cf5efaf3b39 [     info]  - Managing (activating/deactivating) campaigns
+Dec 17 18:06:05 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageCampaigns
+Dec 17 18:06:05 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: Plugins_MaintenaceStatisticsTask_oxMarketMaintenance_ImportMarketStatistics
+Dec 17 18:06:05 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Started oxMarket_ImportMarketStatistics
+Dec 17 18:06:22 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Starting to download websites Market stats...
+Dec 17 18:06:22 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Fetching stats for accountId = 1...
+Dec 17 18:06:30 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Following exception occured for account [1]: [908] Couldn't retrieve statistics data
+Dec 17 18:06:30 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Finished, downloaded stats for 0 websites. 
+Dec 17 18:06:30 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Finished oxMarket_ImportMarketStatistics
+Dec 17 18:06:30 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: Plugins_MaintenaceStatisticsTask_oxMarketMaintenance_ImportMarketStatistics
+Dec 17 18:06:30 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: Plugins_MaintenaceStatisticsTask_oxMarketMaintenance_UpdateWebsites
+Dec 17 18:06:30 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Started oxMarket_UpdateWebsites
+Dec 17 18:06:51 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Finished oxMarket_UpdateWebsites
+Dec 17 18:06:51 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: Plugins_MaintenaceStatisticsTask_oxMarketMaintenance_UpdateWebsites
+Dec 17 18:06:51 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Maintenance Statistics Engine Completed (Started at 2012-12-17 18:05:52 UTC)
+Dec 17 18:06:52 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Running Maintenance Priority Engine
+Dec 17 18:06:53 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Dec 17 18:06:53 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Dec 17 18:06:53 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Dec 17 18:06:53 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Dec 17 18:06:53 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Dec 17 18:06:53 +0000 OX-maintenance-50cf5efaf3b39 [     info]    - Selecting Zones forecasts for all managers for OI from 2012-12-17 18:00:00 to 2012-12-17 18:59:59
+Dec 17 18:06:59 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Inserted 11 rows in the table tmp_ad_zone_impression
+Dec 17 18:06:59 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Dec 17 18:06:59 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Dec 17 18:06:59 +0000 OX-maintenance-50cf5efaf3b39 [     info]    - Selecting Zones forecasts for all managers for OI from 2012-12-17 18:00:00 to 2012-12-17 18:59:59
+Dec 17 18:07:15 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Dec 17 18:07:15 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Dec 17 18:07:15 +0000 OX-maintenance-50cf5efaf3b39 [     info]  - Selecting All Managers
+Dec 17 18:07:15 +0000 OX-maintenance-50cf5efaf3b39 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Dec 17 18:07:16 +0000 OX-maintenance-50cf5efaf3b39 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Dec 17 18:07:16 +0000 OX-maintenance-50cf5efaf3b39 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Dec 17 18:07:16 +0000 OX-maintenance-50cf5efaf3b39 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Dec 17 18:07:16 +0000 OX-maintenance-50cf5efaf3b39 [     info]    - Selecting active campaigns with priority = '9' for manager 2
+Dec 17 18:07:16 +0000 OX-maintenance-50cf5efaf3b39 [     info]    - Selecting active campaigns with priority = '8' for manager 2
+Dec 17 18:07:16 +0000 OX-maintenance-50cf5efaf3b39 [     info]    - Selecting active campaigns with priority = '7' for manager 2
+Dec 17 18:07:17 +0000 OX-maintenance-50cf5efaf3b39 [     info]    - Selecting active campaigns with priority = '6' for manager 2
+Dec 17 18:07:17 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Dec 17 18:07:17 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Dec 17 18:07:17 +0000 OX-maintenance-50cf5efaf3b39 [     info]  - Selecting Managers with ECPM priority campaigns running
+Dec 17 18:07:17 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Dec 17 18:07:18 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Maintenance Priority Engine Completed (Started at 2012-12-17 18:05:52 UTC)
+Dec 17 18:07:18 +0000 OX-maintenance-50cf5efaf3b39 [     info]  Maintenance Engine Completed (Started at 2012-12-17 18:05:52 UTC, taking 00:01:26)
+Dec 17 18:07:19 +0000 OX-50cf5efaf3b39 [     info]  Automatic Maintenance Task Completed
+Dec 17 19:32:06 +0000 OX-50cf7331c63e8 [     info]  Running Automatic Maintenance Task
+ 
+ 
+Dec 17 19:32:08 +0000 OX-maintenance-50cf7331c63e8 [     info]  Running Maintenance Engine
+Dec 17 19:32:08 +0000 OX-maintenance-50cf7331c63e8 [     info]  Running Maintenance Statistics Engine
+Dec 17 19:32:13 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+Dec 17 19:32:14 +0000 OX-maintenance-50cf7331c63e8 [     info]  - Maintenance statistics will be run
+Dec 17 19:32:14 +0000 OX-maintenance-50cf7331c63e8 [     info]  - The intermediate table statistics will be updated
+Dec 17 19:32:14 +0000 OX-maintenance-50cf7331c63e8 [     info]  - The final table statistics will be updated
+Dec 17 19:32:14 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+Dec 17 19:32:14 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OX_Maintenance_Statistics_Task_MigrateBucketData
+Dec 17 19:32:14 +0000 OX-maintenance-50cf7331c63e8 [     info]      - The ox_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+Dec 17 19:32:14 +0000 OX-maintenance-50cf7331c63e8 [     info]      - Accordingly, pruning of the ox_data_bkt_a table will be performed based on data that has a logged date between 
+Dec 17 19:32:14 +0000 OX-maintenance-50cf7331c63e8 [     info]        2012-12-17 18:00:00 UTC and 2012-12-17 18:59:59 UTC
+Dec 17 19:32:15 +0000 OX-maintenance-50cf7331c63e8 [     info]      - The ox_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+Dec 17 19:32:15 +0000 OX-maintenance-50cf7331c63e8 [     info]      - Accordingly, pruning of the ox_data_bkt_a_var table will be performed based on data that has a logged date between 
+Dec 17 19:32:15 +0000 OX-maintenance-50cf7331c63e8 [     info]        2012-12-17 18:00:00 UTC and 2012-12-17 18:59:59 UTC
+Dec 17 19:32:18 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OX_Maintenance_Statistics_Task_MigrateBucketData
+Dec 17 19:32:18 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+Dec 17 19:32:18 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+Dec 17 19:32:18 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageConversions
+Dec 17 19:32:19 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageConversions
+Dec 17 19:32:19 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OX_Maintenance_Statistics_Task_SummariseFinal
+Dec 17 19:32:19 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OX_Maintenance_Statistics_Task_SummariseFinal
+Dec 17 19:32:19 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OX_Maintenance_Statistics_Task_LogCompletion
+Dec 17 19:32:20 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OX_Maintenance_Statistics_Task_LogCompletion
+Dec 17 19:32:20 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageCampaigns
+Dec 17 19:32:20 +0000 OX-maintenance-50cf7331c63e8 [     info]  - Managing (activating/deactivating) campaigns
+Dec 17 19:32:25 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageCampaigns
+Dec 17 19:32:25 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: Plugins_MaintenaceStatisticsTask_oxMarketMaintenance_ImportMarketStatistics
+Dec 17 19:32:25 +0000 OX-maintenance-50cf7331c63e8 [     info]  Started oxMarket_ImportMarketStatistics
+Dec 17 19:32:28 +0000 OX-maintenance-50cf7331c63e8 [     info]  Starting to download websites Market stats...
+Dec 17 19:32:29 +0000 OX-maintenance-50cf7331c63e8 [     info]  Fetching stats for accountId = 1...
+Dec 17 19:32:32 +0000 OX-maintenance-50cf7331c63e8 [     info]  Following exception occured for account [1]: [908] Couldn't retrieve statistics data
+Dec 17 19:32:32 +0000 OX-maintenance-50cf7331c63e8 [     info]  Finished, downloaded stats for 0 websites. 
+Dec 17 19:32:32 +0000 OX-maintenance-50cf7331c63e8 [     info]  Finished oxMarket_ImportMarketStatistics
+Dec 17 19:32:32 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: Plugins_MaintenaceStatisticsTask_oxMarketMaintenance_ImportMarketStatistics
+Dec 17 19:32:32 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: Plugins_MaintenaceStatisticsTask_oxMarketMaintenance_UpdateWebsites
+Dec 17 19:32:32 +0000 OX-maintenance-50cf7331c63e8 [     info]  Started oxMarket_UpdateWebsites
+Dec 17 19:32:37 +0000 OX-maintenance-50cf7331c63e8 [     info]  Finished oxMarket_UpdateWebsites
+Dec 17 19:32:37 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: Plugins_MaintenaceStatisticsTask_oxMarketMaintenance_UpdateWebsites
+Dec 17 19:32:37 +0000 OX-maintenance-50cf7331c63e8 [     info]  Maintenance Statistics Engine Completed (Started at 2012-12-17 19:32:08 UTC)
+Dec 17 19:32:38 +0000 OX-maintenance-50cf7331c63e8 [     info]  Running Maintenance Priority Engine
+Dec 17 19:32:39 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Dec 17 19:32:39 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Dec 17 19:32:39 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Dec 17 19:32:39 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Dec 17 19:32:39 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Dec 17 19:32:39 +0000 OX-maintenance-50cf7331c63e8 [     info]    - Selecting Zones forecasts for all managers for OI from 2012-12-17 19:00:00 to 2012-12-17 19:59:59
+Dec 17 19:32:47 +0000 OX-maintenance-50cf7331c63e8 [     info]  Inserted 10 rows in the table tmp_ad_zone_impression
+Dec 17 19:32:47 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Dec 17 19:32:47 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Dec 17 19:32:47 +0000 OX-maintenance-50cf7331c63e8 [     info]    - Selecting Zones forecasts for all managers for OI from 2012-12-17 19:00:00 to 2012-12-17 19:59:59
+Dec 17 19:33:07 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Dec 17 19:33:07 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Dec 17 19:33:07 +0000 OX-maintenance-50cf7331c63e8 [     info]  - Selecting All Managers
+Dec 17 19:33:07 +0000 OX-maintenance-50cf7331c63e8 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Dec 17 19:33:07 +0000 OX-maintenance-50cf7331c63e8 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Dec 17 19:33:07 +0000 OX-maintenance-50cf7331c63e8 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Dec 17 19:33:08 +0000 OX-maintenance-50cf7331c63e8 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Dec 17 19:33:08 +0000 OX-maintenance-50cf7331c63e8 [     info]    - Selecting active campaigns with priority = '9' for manager 2
+Dec 17 19:33:08 +0000 OX-maintenance-50cf7331c63e8 [     info]    - Selecting active campaigns with priority = '8' for manager 2
+Dec 17 19:33:08 +0000 OX-maintenance-50cf7331c63e8 [     info]    - Selecting active campaigns with priority = '7' for manager 2
+Dec 17 19:33:08 +0000 OX-maintenance-50cf7331c63e8 [     info]    - Selecting active campaigns with priority = '6' for manager 2
+Dec 17 19:33:09 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Dec 17 19:33:09 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Dec 17 19:33:09 +0000 OX-maintenance-50cf7331c63e8 [     info]  - Selecting Managers with ECPM priority campaigns running
+Dec 17 19:33:09 +0000 OX-maintenance-50cf7331c63e8 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Dec 17 19:33:10 +0000 OX-maintenance-50cf7331c63e8 [     info]  Maintenance Priority Engine Completed (Started at 2012-12-17 19:32:08 UTC)
+Dec 17 19:33:10 +0000 OX-maintenance-50cf7331c63e8 [     info]  Maintenance Engine Completed (Started at 2012-12-17 19:32:08 UTC, taking 00:01:02)
+Dec 17 19:33:11 +0000 OX-50cf7331c63e8 [     info]  Automatic Maintenance Task Completed
+Dec 17 19:41:04 +0000 OX-50cf754f80819 [     info]  Unwritable file /var/www/openx_test/plugins/geoTargeting/oxMaxMindGeoIP/oxMaxMindGeoIP.class.php
+Dec 17 19:41:04 +0000 OX-50cf754f80819 [     info]  Unwritable file /var/www/openx_test/plugins/geoTargeting/oxMaxMindGeoIP/oxMaxMindGeoIP.delivery.php
+Dec 17 19:41:04 +0000 OX-50cf754f80819 [     info]  Unwritable folder /var/www/openx_test/plugins/geoTargeting/oxMaxMindGeoIP
+Dec 17 19:41:04 +0000 OX-50cf754f80819 [     info]  Unwritable folder /var/www/openx_test/plugins/geoTargeting
+Dec 17 19:43:21 +0000 OX-50cf75d19df10 [    error]  Cannot locate owning account IDs for entity in table 'clients', as the 'account_id' column was empty where column 'clientid' was  equal to '4'.
+Dec 17 19:43:22 +0000 OX-50cf75d19df10 [    error]  Cannot locate owning account IDs for entity in table 'clients', as the 'account_id' column was empty where column 'clientid' was  equal to '4'.
+Dec 17 19:43:23 +0000 OX-50cf75d19df10 [    error]  Cannot locate owning account IDs for entity in table 'clients', as the 'account_id' column was empty where column 'clientid' was  equal to '4'.

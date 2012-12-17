@@ -25,6 +25,8 @@
 $Id$
 */
 
+
+
 // Require the initialisation file
 require_once '../../init-delivery.php';
 
@@ -114,8 +116,5 @@ if ($limitations['compatible']) {
    MAX_layerPutJs($output, $uniqid);
    ob_flush(); 
    }
-
-
-
-
+   
 ?>
